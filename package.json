@@ -1,0 +1,19 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "DevTinder - A Dating App",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"cd devTinder-backend && npm run dev\" \"cd devTinder-frontend && npm run dev\"",
+    "build": "concurrently \"cd devTinder-backend && npm install\" \"cd devTinder-frontend && npm run build\"",
+    "start": "cd devTinder-backend && npm start",
+    "backend": "cd devTinder-backend && npm run dev",
+    "frontend": "cd devTinder-frontend && npm run dev"
+  },
+  "keywords": ["dating", "app", "devtinder"],
+  "author": "DevTinder Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
