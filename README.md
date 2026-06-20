@@ -1,6 +1,6 @@
-# DevTinder - Full Stack Application
+# DevTinder | MERN Stack Developer Networking Platform
 
-A modern dating app built with React, Node.js, Express, and MongoDB.
+A full-stack developer networking platform built with React, Node.js, Express, and MongoDB where developers can connect, send requests, and manage professional profiles.
 
 ## 🎯 Quick Start
 
@@ -87,16 +87,13 @@ SETUP_GUIDE.md             # Complete setup guide
 DEPLOYMENT_CHECKLIST.md    # Pre-deployment checklist
 ```
 
-### Backend
-```
-.env.production             # Production environment variables
-```
+## Live Demo
 
-### Frontend
-```
-.env                       # Development environment variables
-.env.production            # Production environment variables
-```
+Frontend:
+https://devtinder-frontend-tau.vercel.app
+
+Backend:
+https://devtinder-backend-zv80.onrender.com
 
 ---
 
