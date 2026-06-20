@@ -9,9 +9,9 @@ This repository contains the **backend** of DevTinder, built with **Node.js, Exp
 
 ---
 
-## 📖 My Node.js Learning Repository
-I learned and maintained all my Node.js knowledge in one place:
-[**Namsate Nodejs**](https://github.com/akshadjaiswal/Namaste-Nodejs)
+## Repository
+Main project repository:
+[sudhanshurai2004/devTinder](https://github.com/sudhanshurai2004/devTinder)
 
 
 ## 🛠️ Tech Stack
@@ -120,8 +120,8 @@ I learned and maintained all my Node.js knowledge in one place:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/akshadjaiswal/devTinder-backend.git
-cd devTinder-backend
+git clone https://github.com/sudhanshurai2004/devTinder.git
+cd devTinder/devTinder-backend
 ```
 
 ### **2️⃣ Set Up Environment Variables**
@@ -141,8 +141,8 @@ Server runs at: `http://localhost:3000/`
 ---
 
 ## 🔗 Frontend Integration
-The frontend for DevTinder is available at:
-🔗 **[DevTinder Frontend Repository](https://github.com/akshadjaiswal/devTinder-frontend)**
+The frontend for DevTinder is available in the same monorepo:
+🔗 **[DevTinder Repository](https://github.com/sudhanshurai2004/devTinder)**
 
 Make sure the backend is running before accessing the frontend.
 
@@ -151,8 +151,7 @@ Make sure the backend is running before accessing the frontend.
 
 Explore my additional repositories to deepen your understanding of related topics in the JavaScript ecosystem:
 
-- [Namaste Javascript](https://github.com/akshadjaiswal/Namaste-Javascript): A repository focused on learning Javascript concepts, from basics to advanced programming.
-- [Namaste React](https://github.com/akshadjaiswal/Namaste-React): A repository dedicated to mastering React.js, covering foundational and advanced aspects of building interactive UIs.
+- [DevTinder](https://github.com/sudhanshurai2004/devTinder): Full-stack DevTinder monorepo.
 
 ---
 
@@ -178,11 +177,9 @@ This project is open-source and available under the **MIT License**.
 
 <div align="center">
 
-**Made with ❤️ by Akshad Jaiswal**
+**Made with ❤️ by DevTinder Team**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshadjaiswal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshadsantoshjaiswal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/akshad_999)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhanshurai2004)
 
 </div>
 

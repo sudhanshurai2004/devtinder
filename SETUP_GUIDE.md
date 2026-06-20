@@ -72,7 +72,7 @@ devTinder/
 ### **Backend (.env - Already Configured)**
 ```
 MONGO_URI=mongodb+srv://...
-JWT_SECRET=Hero@123456
+JWT_SECRET=replace-with-a-strong-secret
 PORT=3000
 NODE_ENV=development
 ```

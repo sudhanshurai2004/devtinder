@@ -18,12 +18,12 @@ const Footer = () => {
           <br />
           Connecting Developers and Collaborate 
         </p>
-        <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
+        <p>Copyright © {new Date().getFullYear()} - All rights reserved</p>
       </aside>
       <nav>
         <div className="grid grid-flow-col gap-4">
           <a
-            href="https://x.com/akshad_999"
+            href="https://x.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,7 +38,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://www.linkedin.com/akshadsantoshjaiswal"
+            href="https://www.linkedin.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -53,7 +53,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://github.com/akshadjaiswal"
+            href="https://github.com/"
             target="_blank"
             rel="noopener noreferrer"
           >

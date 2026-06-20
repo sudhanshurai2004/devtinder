@@ -136,7 +136,7 @@ DEPLOYMENT_CHECKLIST.md    # Pre-deployment checklist
 ### Backend (.env)
 ```
 MONGO_URI=mongodb+srv://...
-JWT_SECRET=Hero@123456
+JWT_SECRET=replace-with-a-strong-secret
 PORT=3000
 ```
 
